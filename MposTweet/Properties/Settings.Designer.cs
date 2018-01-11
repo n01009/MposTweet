@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MposTwieet.Properties
+namespace MposTweet.Properties
 {
 
 

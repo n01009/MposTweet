@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2010
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MposTwieet", "MposTwieet\MposTwieet.csproj", "{2FDE723F-7307-443A-992A-A6DA3C4FBF61}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MposTweet", "MposTweet\MposTweet.csproj", "{2FDE723F-7307-443A-992A-A6DA3C4FBF61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

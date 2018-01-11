@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace MposTwieet
+namespace MposTweet
 {
     /// <summary>
     /// MainWindow.xaml の相互作用ロジック
@@ -23,6 +23,11 @@ namespace MposTwieet
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
         }
     }
 }
